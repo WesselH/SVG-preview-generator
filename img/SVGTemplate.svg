@@ -1,0 +1,16 @@
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="810px" height="450px" viewBox="0 0 810 450" style="enable-background:new 0 0 810 450;"
+	 xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;opacity:0;visibility: hidden;}
+</style>
+<defs>
+	  <clipPath id="mask" class="mask">
+	  </clipPath>
+</defs>
+	<g clip-path="url(#mask)">
+		<image class="maskedImage"  xlink:href="img/background_overlay.png" width="810" height="450"/>
+	</g>
+</svg>
